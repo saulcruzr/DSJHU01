@@ -23,9 +23,9 @@ Next are the questions:
 
 7) Remove all incomplete cases from the dataset (row with an NA in any column).
 
-8) What are the new dimensions of the data set? 
+8) What are the dimensions of the data set for all complete cases? 
 
-9) Get the date (day and month) with the highest Ozone value in the dataset.
+9) Get the date (day and month) with the highest Ozone value for all complete cases in the dataset.
 
 10) Create a subset with only the 7th and 9th months.
 
@@ -33,8 +33,8 @@ Next are the questions:
 
 12) What is Fridays’ average temperature of the subset created in question 10?
 
-13) Create a table containing the wind's average, minimum value, 25th percentile (2nd quartile), median value, 75th percentile (3rd quartile) and maximum value for May and August (month 5 and 8) complete cases for all days in the dataset.
+13) Create a table containing the Wind's average, minimum value, 25th percentile (2nd quartile), median value, 75th percentile (3rd quartile) and maximum value for May and August (month 5 and 8) complete cases for all days in the dataset. (Consider the data is for the year 2016)
 
-14) Create a table containing the wind's average, minimum value, 25th percentile (2nd quartile), median value, 75th percentile (3rd quartile) and maximum value for May and August (month 5 and 8) complete cases for all days except Mondays in the dataset.
+14) Create a table containing the Wind's average, minimum value, 25th percentile (2nd quartile), median value, 75th percentile (3rd quartile) and maximum value for May and August (month 5 and 8) complete cases for all days except Mondays in the dataset. (Consider the data is for the year 2016)
 
 all the best!
